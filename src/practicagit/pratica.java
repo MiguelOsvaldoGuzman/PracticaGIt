@@ -9,13 +9,6 @@ package practicagit;
  *
  * @author miguel
  */
-public class PracticaGIt {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("HOla mundo");
-    }
+public class pratica {
     
 }
